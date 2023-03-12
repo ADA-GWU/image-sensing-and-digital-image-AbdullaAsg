@@ -11,7 +11,7 @@ night_light=cv2.imread('Original_images/6pm_daylight.jpg',cv2.COLOR_BGR2RGB)
 day_light=cv2.imread('Original_images/1pm_day_light.jpg',cv2.COLOR_BGR2RGB)
 dim_light=cv2.imread('Original_images/dim_light.jpg',cv2.COLOR_BGR2RGB)
 bright_light=cv2.imread('Original_images/bright_light.jpg',cv2.COLOR_BGR2RGB)
-origImages=[bright_light,day_light,dim_light,bright_light]
+origImages=[night_light,day_light,dim_light,bright_light]
 
 def toGrayscale(img):
     grayImg=np.matmul(img,[[0.299],[0.587],[0.114]])
