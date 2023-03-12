@@ -13,7 +13,7 @@ Written code implements the followings:
 
 5. Converting RGB format to HSV format and changing Hue, Saturation and Brightness of Images
 
-6.Taking 2 points (1-Object,2-Background ) from image and Finding close colors in the image to the given points. Final output is Distance matrix (black points are close, white points are different). 
+6. Taking 2 points (1-Object,2-Background ) from image and Finding close colors in the image to the given points. Final output is Distance matrix (black points are close, white points are different). 
 ## Installation
 
 The following packages are required:
