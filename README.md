@@ -2,7 +2,8 @@
 image-sensing-and-digital-image-AbdullaAsg created by GitHub Classroom
 This assignment is implemented according to the Computer Vision couse work.
 Written code implements the followings:
-1.Reading 4 images from Original_images folder
+
+1. Reading 4 images from Original_images folder
 
 2. Converting RGB images to Grayscale format
 
