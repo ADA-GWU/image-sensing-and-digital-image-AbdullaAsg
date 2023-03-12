@@ -19,9 +19,11 @@ Written code implements the followings:
 The following packages are required:
 
 OpenCV 
+
 Skimage
 
 pip install opencv-python
+
 pip install skimage
 
 
